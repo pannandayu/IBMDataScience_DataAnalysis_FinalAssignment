@@ -1,1 +1,1 @@
-This is the final project of Analysis Data with Python Course (IBM - Data Scienc)
+This is the final project of Analysis Data with Python Course (IBM - Data Science)
